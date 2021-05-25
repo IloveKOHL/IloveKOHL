@@ -1,6 +1,6 @@
 # Hey, I'm Lukas 👋
 
-Lukas Oetken / 15 / München, Germany
+Lukas Oetken / 15 / Niedersachsen, Germany
 
 [![Java](https://img.shields.io/badge/-Java-ED7E18.svg?logo=Java&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/LukasILoveKOHL?tab=repositories&q=&type=&language=c%2B%2B)
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/LukasILoveKOHL?tab=repositories&q=&type=&language=javascript)
