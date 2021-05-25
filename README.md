@@ -10,3 +10,5 @@ Lukas Oetken / 15 / Niedersachsen, Germany
 [![node.js](https://img.shields.io/badge/-node.js-339933.svg?logo=node.js&logoColor=white&longCache=true&style=for-the-badge)](https://nodejs.org/en/)
 
 [![stats](https://github-readme-stats.vercel.app/api?username=LukasILoveKOHL&count_private=true&theme=tokyonight)](https://github.com/LukasILoveKOHL)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasILoveKOHL&theme=tokyonight)](https://github.com/LukasILoveKOHL/github-readme-stats)
