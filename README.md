@@ -4,6 +4,8 @@
 
 Lukas Oetken / 15 / Niedersachsen, Germany
 
+#### Go and take a look at https://github.com/LvckyWorld
+
 [![Java](https://img.shields.io/badge/-Java-007396.svg?logo=Java&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/LukasILoveKOHL?tab=repositories&q=&type=&language=c%2B%2B)
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/LukasILoveKOHL?tab=repositories&q=&type=&language=javascript)
 [![C++](https://img.shields.io/badge/-C++-00599C.svg?logo=C%2B%2B&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/LukasILoveKOHL?tab=repositories&q=&type=&language=c%2B%2B)
