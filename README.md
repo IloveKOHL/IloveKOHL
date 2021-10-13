@@ -14,3 +14,5 @@ Lukas Oetken / 15 / Niedersachsen, Germany
 ## Stats
 
 [![stats](https://github-readme-stats.vercel.app/api?username=LukasILoveKOHL&count_private=true&theme=tokyonight)](https://github.com/LukasILoveKOHL)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasILoveKOHL&layout=compact&theme=tokyonight)](https://github.com/LukasILoveKOHL/github-readme-stats)
+
