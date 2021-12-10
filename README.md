@@ -10,6 +10,8 @@ Lukas Oetken / 16 / Niedersachsen, Germany
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/LukasILoveKOHL?tab=repositories&q=&type=&language=javascript)
 [![C#](https://img.shields.io/badge/-Csharp-239120.svg?logo=c-sharp&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/LukasILoveKOHL?tab=repositories&q=&type=&language=c%23)
 
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/447285957004099584)](https://discord.com/users/447285957004099584)
 
 ## Stats
 
