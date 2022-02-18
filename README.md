@@ -4,8 +4,6 @@
 
 Lukas Oetken / 16 / Niedersachsen, Germany
 
-#### At the moment I'm working on a react-native IOS and Android mobile phone app
-
 #### Go and take a look at my [Other Projects.](https://github.com/LvckyWorld) 
 
 
