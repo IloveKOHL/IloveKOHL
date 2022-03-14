@@ -8,7 +8,7 @@ Lukas Oetken / 16 / Niedersachsen, Germany
 
 
 [![Java](https://img.shields.io/badge/-Java-007396.svg?logo=Java&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/IloveKOHL?tab=repositories&q=&type=&language=c%2B%2B)
-[![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/IloveKOHL?tab=repositories&q=&type=&language=javascript)
+[![PHP](https://img.shields.io/badge/-php-7175AA.svg?logo=php&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/IloveKOHL?tab=repositories&q=&type=&language=php)
 [![TypeScript](https://img.shields.io/badge/-typescript-2f74c0.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/IloveKOHL?tab=repositories&q=&type=&language=typescript)
 
 ## Stats
