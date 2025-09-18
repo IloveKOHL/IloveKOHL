@@ -26,7 +26,3 @@ Lukas Oetken / 19 / Niedersachsen, Germany
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IloveKOHL&layout=compact&count_private=true&theme=tokyonight)](https://github.com/IloveKOHL#github-readme-stats)
